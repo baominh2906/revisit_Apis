@@ -1,0 +1,31 @@
+{
+    "children": [],
+    "tagName": "android.widget.Button",
+    "attributes": {
+        "index": "0",
+        "text": "Display text view",
+        "class": "android.widget.Button",
+        "package": "io.selendroid.testapp",
+        "content-desc": "visibleButtonTestCD",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "scrollable": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "selected": "false",
+        "bounds": "[0,1091][505,1283]",
+        "resource-id": "io.selendroid.testapp:id/visibleButtonTest",
+        "instance": "2",
+        "xpath": "//android.widget.Button[@content-desc=\"visibleButtonTestCD\"]",
+        "ocrText": "display text view"
+    },
+    "path": "0.0.1.0.5.0",
+    "interactedAt": {
+        "x": 0.3504950495049505,
+        "y": 0.4322916666666667
+    }
+}

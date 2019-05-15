@@ -1,0 +1,31 @@
+{
+    "children": [],
+    "tagName": "android.widget.CheckBox",
+    "attributes": {
+        "index": "1",
+        "text": "I accept adds",
+        "class": "android.widget.CheckBox",
+        "package": "io.selendroid.testapp",
+        "content-desc": "",
+        "checkable": "true",
+        "checked": "true",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "false",
+        "scrollable": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "selected": "false",
+        "bounds": "[833,899][1368,1091]",
+        "resource-id": "io.selendroid.testapp:id/input_adds_check_box",
+        "instance": "0",
+        "xpath": "(//android.widget.LinearLayout[@content-desc=\"imageViewCD\"])[2]/android.widget.CheckBox",
+        "ocrText": "i accept adds"
+    },
+    "path": "0.0.1.0.4.1",
+    "interactedAt": {
+        "x": 0.15514018691588785,
+        "y": 0.4010416666666667
+    }
+}
